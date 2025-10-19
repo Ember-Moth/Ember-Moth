@@ -1,4 +1,3 @@
-![background.jpg](https://youke1.picui.cn/s1/2025/09/07/68bd309400d93.jpg)
 ### About me
 <img src="https://github-readme-stats.vercel.app/api?username=Ember-Moth&layout=compact&theme=calm&hide_border=true&hide=issues&show_icons=true" height="165"/><img alt="most used lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ember-Moth&layout=compact&theme=calm&hide_border=true&langs_count=6&exclude_repo=bspart,uooc-plz-dont-pause&card_width=323"/>
 <!--
