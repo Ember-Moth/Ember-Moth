@@ -53,9 +53,10 @@ You can explore my [public repositories](https://github.com/Ember-Moth?tab=repos
 
 ## 🤝 Connect
 
-I'm always interested in interesting projects, technical discussions, and open-source collaboration.
+I'm open to open-source collaboration, interesting projects, and technical discussions.
 
-Feel free to reach out through [GitHub](https://github.com/Ember-Moth).
+- **Email:** [ember_moth@proton.me](mailto:ember_moth@proton.me)
+- **GitHub:** [@Ember-Moth](https://github.com/Ember-Moth)
 
 ---
 
