@@ -9,8 +9,8 @@ I'm a software engineer and open-source contributor. I mostly write Python, Rust
 
 ## Projects
 
-- [Materials Workbench](https://github.com/Ember-Moth/Materials-Workbench): A cross-platform Rust desktop app for viewing, measuring, and editing crystal structures. It supports CIF import, interactive 3D inspection, and symmetry-aware editing.
-- [AWS Panel](https://github.com/Ember-Moth/aws-panel): A self-hosted Go dashboard for managing multiple AWS accounts. It previews cloud changes before running them as trackable, resumable tasks.
+- [gmpay-edge](https://github.com/GMWalletApp/gmpay-edge): A self-hosted, multi-chain cryptocurrency payment gateway with merchant APIs, checkout, and webhook delivery.
+- [gmshop-edge](https://github.com/Ember-Moth/gmshop-edge): A self-hosted storefront for digital goods with customer accounts, checkout, fulfillment, and an admin console.
 
 ## Get in touch
 
